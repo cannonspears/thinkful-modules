@@ -1,0 +1,13 @@
+header {
+  display: flexbox;
+  flex-direction: row;
+}
+
+header img {
+  width: 30%
+}
+
+header div {
+  width: 30%;
+
+}
